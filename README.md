@@ -7,9 +7,13 @@ so most of what i make is open source.
 ## stack
 
 **backend** — go · crystal · node.js · java · python
+
 **frontend** — typescript · astro · react · svelte
+
 **native** — electron · android · kotlin · flutter
+
 **databases** — postgresql · sqlite
+
 **linux** — docker · bash · debian · fedora · caddy
 
 ## what i'm up to
